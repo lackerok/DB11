@@ -62,3 +62,6 @@ employee_id — INT NOT NULL (FOREIGN KEY -> employees.id)
 project_id — INT NOT NULL (FOREIGN KEY -> projects.id)
 
 PRIMARY KEY (employee_id, project_id)
+
+<img width="1111" height="612" alt="image" src="https://github.com/user-attachments/assets/eb245176-f714-444c-8b5f-6914996bc806" />
+
